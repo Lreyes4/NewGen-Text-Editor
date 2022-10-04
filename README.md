@@ -45,7 +45,7 @@ The following image shows the application's `IndexedDB` storage:
 
 ## Github Repository:
 
-- [Github Repository for Text Editor](https://github.com/ksjefferies/text-editor)
+- [Github Repository for Text Editor](https://github.com/Lreyes4/NewGen-Text-Editor)
 
 ## Author:
 
