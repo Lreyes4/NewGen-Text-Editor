@@ -12,7 +12,6 @@ const initdb = async () =>
     },
   });
 
-// Take updated content and save it to IndexedDB.
 export const putDb = async (content) => {
   const jateDB = await openDB('jate', 1);
   const tx = jateDB.transaction('jate', 'readwrite');
@@ -23,7 +22,6 @@ export const putDb = async (content) => {
   console.log('Data successfully saved to database');
 };
 
-// Get all content from database
 export const getDb = async () => {
   const jateDB = await openDB('jate', 1);
   const tx = jateDB.transaction('jate', 'readonly');
