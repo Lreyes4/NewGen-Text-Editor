@@ -66,7 +66,7 @@ typings/
 # Output of 'npm pack'
 *.
 
-# Visual Studio 2015 cache/options directory
+# Visual Studio cache directory
 .vs/
 
 # Yarn Integrity file
