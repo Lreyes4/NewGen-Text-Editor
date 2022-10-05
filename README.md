@@ -42,7 +42,7 @@ The following screenshot shows the application's registered service worker:
 
 The following screenshot shows the application's IndexedDB storage:  
 
-![image](https://user-images.githubusercontent.com/103380089/193957424-eaec317a-ecf6-4f37-963c-0a1e6f941e93.png)
+![image](https://user-images.githubusercontent.com/103380089/193975790-02489912-b94a-4a6b-b01c-759af60ec496.png)
 
 ------
 
