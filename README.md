@@ -18,6 +18,10 @@
 This is a progressive web application. It is a text editor that runs in a browser.
 
 ------
+## Deployed Application URL
+
+[Deployed Application URL](https://newgen-text-editor.herokuapp.com/)
+
 ## Usage:
 
 Learn more about how to make use of this application by clicking on the source link that can be found further down on this page. Click the "install" button on the link, and then wait for the software to download to your computer. This will allow you to use the application even if you do not have an online connection.
