@@ -14,5 +14,12 @@
     },
     "devDependencies": {
         "nodemon": "^2.0.4"
-    }
+    },
+    {
+  "name": "example-app",
+  "description": "a really cool app",
+  "version": "1.0.0",
+  "engines": {
+    "node": "18.x"
+  }
 }
