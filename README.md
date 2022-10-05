@@ -5,7 +5,7 @@
 
 - [Description](#description)
 - [Usage](#usage)
-- [Images](#images)
+- [Mock-Up](#mock-Up)
 - [Deployed Link](#deployed-link)
 - [GitHub Repository](#github-repository)
 - [Author](#author)  
@@ -20,14 +20,13 @@ This is a progressive web application. It is a text editor that runs in a browse
 ------
 ## Usage:
 
-To use this app go to the link provided below.  For offline use, go to the link and hit the "install" button to install the app locally, for offline use.
+Learn more about how to make use of this application by clicking on the source link that can be found further down on this page. Click the "install" button on the link, and then wait for the software to download to your computer. This will allow you to use the application even if you do not have an online connection.
 
 ------
-## Images:
+## Mock-Up:
 
-The following image shows the application retrieves database, injecting to editor, and successfully saving to DB.:  
-
-![Screenshot of Text Editor](./client/src/images/text-1.jpg)
+The following screnshot shows the application overview:
+![image](https://user-images.githubusercontent.com/103380089/193955933-605d4816-8b44-44ca-81ad-cc0676ea8d3d.png)
 
 The following image shows the application's `manifest.json` file:  
 
