@@ -6,7 +6,7 @@
 - [Description](#description)
 - [Usage](#usage)
 - [Mock-Up](#mock-Up)
-- [Deployed Application URL](#deployed Application URL)
+- [Deployed Application URL](#Deployed-Application-URL)
 - [GitHub Repository](#github-repository)
 - [Author](#author)  
 - [Technologies Used](#technologies-used) 
