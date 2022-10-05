@@ -25,20 +25,20 @@ Learn more about how to make use of this application by clicking on the source l
 ------
 ## Mock-Up:
 
-The following screnshot shows the application overview:
+The following screenshot shows the application overview:
 ![image](https://user-images.githubusercontent.com/103380089/193955933-605d4816-8b44-44ca-81ad-cc0676ea8d3d.png)
 
-The following image shows the application's `manifest.json` file:  
+The following screenshot shows the application's manifest.json file:  
 
-![Screenshot of Text Editor](./client/src/images/manifest.jpg)
+![image](https://user-images.githubusercontent.com/103380089/193956321-7b541138-8c1f-44e9-b2aa-736ed388bb6e.png)
 
-The following image shows the application's registered `service worker`:  
+The following screenshot shows the application's registered service worker:  
 
-![Screenshot of Text Editor](./client/src/images/service-workers.jpg)
+![image](https://user-images.githubusercontent.com/103380089/193957034-74050a1a-58c3-4ba4-95a7-4e84db7abe04.png)
 
-The following image shows the application's `IndexedDB` storage:  
+The following screenshot shows the application's IndexedDB storage:  
 
-![Screenshot of Text Editor](./client/src/images/text-2.jpg)
+![image](https://user-images.githubusercontent.com/103380089/193957424-eaec317a-ecf6-4f37-963c-0a1e6f941e93.png)
 
 ------
 
